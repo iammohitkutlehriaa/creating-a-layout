@@ -1,0 +1,35 @@
+* {
+  margin:0;
+  padding: 0;
+}
+
+.layout {
+  box-sizing: border-box;
+  display: inline-flex;
+
+}
+
+.center {
+  border: 2px solid rgb(210, 230, 178);;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color:aliceblue;
+  background-color:rgb(210, 230, 178);
+}
+
+.light-pink{
+  border: 2px solid black;
+  height: 500px;
+  width: 42.44rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightpink;
+  color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:50px;
+}
